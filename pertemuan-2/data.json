@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Supreme Spray Hooded Sweatshirt Red",
+    "price": 214.88,
+    "brand": "Supreme",
+    "category": "Streetwear",
+    "image": "https://ns.imgix.net/product/1604684821737_SupremeSpr0.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Supreme x Smurfs Hooded Sweatshirt Black",
+    "price": 242.08,
+    "brand": "Supreme",
+    "category": "Streetwear",
+    "image": "https://ns.imgix.net/product/1601728734784_SupremeSmu0.jpg"
+  },
+  {
+    "id": 3,
+    "title": "GOODENOUGH x NikeLab Court Force Mid",
+    "price": 200,
+    "brand": "Nike",
+    "category": "Sneakers",
+    "image": "https://ns.imgix.net/product/1619793878284_GOODENOUGH0.png"
+  },
+  {
+    "id": 4,
+    "title": "adidas Superstar 'Off White Ecru Tint'",
+    "price": 200,
+    "brand": "adidas",
+    "category": "Sneakers",
+    "image": "https://ns.imgix.net/product/1637003370626_adidasSupe0.png"
+  },
+  {
+    "id": 5,
+    "title": "Rich Paul x New Balance 550 'Multi'",
+    "price": 183.04,
+    "brand": "New Balance",
+    "category": "Sneakers",
+    "image": "https://ns.imgix.net/product/1641928971827_RichPaulxN0.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Balenciaga Logo Here Flatground T‑Shirt 'Raspberry/White'",
+    "price": 100,
+    "brand": "Balenciaga",
+    "category": "Streetwear",
+    "image": "https://ns.imgix.net/product/1637714851388_Balenciaga0.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "adidas Yeezy 450 'Cinder'",
+    "price": 272,
+    "brand": "adidas",
+    "category": "Sneakers",
+    "image": "https://ns.imgix.net/product/1644864645493_adidasYeez0.png"
+  },
+  {
+    "id": 8,
+    "title": "Jeremy Scott x adidas Forum High 'Dipped Blue'",
+    "price": 217.6,
+    "brand": "adidas",
+    "category": "Sneakers",
+    "image": "https://ns.imgix.net/product/1636549113993_JeremyScot0.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Nike Air Max 97 'Reflective Logo'",
+    "price": 231.2,
+    "brand": "Nike",
+    "category": "Sneakers",
+    "image": "https://ns.imgix.net/product/1633545952273_NikeAirMax0.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Nike React Element 55 Black Solar Red",
+    "price": 127.19,
+    "brand": "Nike",
+    "category": "Sneakers",
+    "image": "https://ns.imgix.net/product/1614408465688_NikeReactE0.jpeg"
+  }
+]
